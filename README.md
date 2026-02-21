@@ -1,3 +1,3 @@
 <p align="center">
-  <img alt="Chiyo looking at a computer." src="https://github.com/LariVille/LariVille/blob/089a402763e66f8b8e59d5ff88f0c5fca43ae92b/.github/cirno.gif" width="400px">
+  <img alt="yotsuba" src="https://github.com/LariVille/LariVille/blob/48e269e09c05e68c91d3e27ebc0ad67373e7fe8d/.github/yotsuba.gif" width="400px">
 </p>
